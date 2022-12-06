@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KrssMelo
+- 👀 I’m interested in Video-Games, Programmation, Music and Pizza.
+- 🌱 I’m currently learning Java, DataBases, HTML/CSS and some Frameworks
+- 📫 How to reach me:
+                - https://www.linkedin.com/in/melosamuel
