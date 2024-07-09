@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [objection-automation (private)](NaN)
 
-- 🌱 I’m currently learning **FastAPI, Unity, Blender, Data Analisys.**
+- 🌱 I’m currently learning **Python, Selenium, Data Analisys.**
 
-- 👯 I’m looking to collaborate on [My own AI Personal Assistant Project](https://github.com/melosamuel/SAMUEL)
+- 👯 I’m looking to collaborate on My own projects.
 
 - 💬 Ask me about **ANYTHING. If I don't know, make me aware.**
 
