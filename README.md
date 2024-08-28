@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [objection-automation (private)](NaN)
 
-- 🌱 I’m currently learning **Python, Selenium, Data Analisys.**
+- 🌱 I’m currently learning **Python, Selenium, Data Analisys and Java**
 
 - 👯 I’m looking to collaborate on My own projects.
 
