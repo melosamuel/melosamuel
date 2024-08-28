@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/melosamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melosamuel" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100080851070500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samuel melo" height="30" width="40" /></a>
-<a href="https://instagram.com/samuel.alternative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.alternative" height="30" width="40" /></a>
+<a href="https://instagram.com/melosamuel220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel.alternative" height="30" width="40" /></a>
 <a href="https://discord.gg/1065808488888025088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1065808488888025088" height="30" width="40" /></a>
 </p>
 
