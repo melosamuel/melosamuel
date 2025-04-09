@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Samuel</h1>
 <h3 align="center">A deeply passionate back-end developer from Brazil!</h3>
 
-- 🔭 I’m currently working on [objection-automation (private)](NaN)
+- 🔭 I’m currently working on my Software Engineering Skills
 
-- 🌱 I’m currently learning **Python, Selenium, Data Analisys and Java**
+- 🌱 I’m currently learning **Python, WebScraping, Data Analysis and Cloud**
 
 - 👯 I’m looking to collaborate on My own projects.
 
