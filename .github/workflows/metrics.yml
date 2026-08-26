@@ -17,4 +17,11 @@ jobs:
           user: melosamuel
           template: classic
           base: header, activity, community, repositories, metadata
+          # Trafic
           plugin_traffic: yes
+          # Anilist
+          plugin_anilist: yes
+          plugin_anilist_user: SrKrauss
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: watching, completed, planning
+          plugin_anilist_limit: 2
