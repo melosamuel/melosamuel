@@ -33,15 +33,6 @@ Currently **open to new opportunities**. I enjoy the entire software engineering
 
 ---
 
-#### Featured Portfolio
-See my *showcase* repositories. Inside them, you will find the architecture, engineering challenges, and flows of the private projects I developed:
-
-1. 📱 **[Nix - Gestão Eleitoral](https://github.com/melosamuel)** - *Public electoral management app built with React Native*
-2. 📱 **[ClickCidadão](https://github.com/melosamuel)** - *Civic engagement app built with Flutter*
-3. 📱 **[CarnavalRio](https://github.com/melosamuel)** - *Brazilian Carnival oficial app built with React Native*
-
----
-
 #### 📊 My Stats
 
 <p align="left">
