@@ -11,17 +11,23 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Main Stats & Traffic
+        uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: melosamuel
           template: classic
           base: header, activity, community, repositories, metadata
-          # Trafic
           plugin_traffic: yes
-          # Anilist
+      - name: AniList Status
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: melosamuel
+          base: ""
           plugin_anilist: yes
           plugin_anilist_user: SrKrauss
           plugin_anilist_medias: anime
           plugin_anilist_sections: watching, completed, planning
-          plugin_anilist_limit: 2
