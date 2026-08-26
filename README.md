@@ -1,6 +1,6 @@
-# 👾 Press Start: Hi, I'm Samuel!
+# 👾 Hi, I'm Samuel!
 
-**Full Stack Software Engineer** | Greenfield Projecst | Web, Mobile & Gaming
+**Full Stack Software Engineer** | Greenfield Projects | Web, Mobile & Gaming
 
 Currently **open to new opportunities**. I enjoy the entire software engineering process, from requirement elicitation and designing architectures to writing solid, comprehensive documentation.
 
